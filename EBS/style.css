@@ -1,0 +1,21 @@
+body{
+	background-image: url("5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.reg-box{
+	max-width: 1000px;
+	float: none;
+	margin: 150px auto;
+}
+
+.reg-left{
+	background: rgba(211,211,211,0.5);
+	padding: 30px;
+}
+
+.form-control{
+	background-color: transparent;
+}
